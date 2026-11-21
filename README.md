@@ -1,4 +1,4 @@
-- 👋 Hi.
+👋 Hi.
 
 <!---
 tony3ynot/tony3ynot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
