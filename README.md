@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Ju Yong Park.
-- 👀 I’m interested in multi-modal, diffusion models.
+- 👋 Hi.
 
 <!---
 tony3ynot/tony3ynot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
